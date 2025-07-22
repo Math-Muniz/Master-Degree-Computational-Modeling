@@ -1,0 +1,232 @@
+Geracao 1:
+==================================================
+
+Individuos da geracao 1 (Pais e Filhos):
+--------------------------------------------------
+Individuo 1 (Geracao 1):
+Origem: Preservado por elitismo
+Hiperparametros: {'n_latent_factors': 47, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.07615
+Precisao: 0.844
+Recall: 0.699
+----------------------------------------
+Individuo 2 (Geracao 1):
+Origem: Individuo inicial (sem pais)
+Hiperparametros: {'n_latent_factors': 104, 'batch_size': 78, 'learning_rate': 0.002947614997131039}
+Fitness (MAE): 1.16492
+Precisao: 0.842
+Recall: 0.634
+----------------------------------------
+Individuo 3 (Geracao 1):
+Origem: Individuo inicial (sem pais)
+Hiperparametros: {'n_latent_factors': 104, 'batch_size': 78, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.13917
+Precisao: 0.844
+Recall: 0.635
+----------------------------------------
+Individuo 4 (Geracao 1):
+Origem: Crossover de pais 7cc77f81-b0ce-4ecf-bb2f-f52919989304 e a6788a69-a1c2-4c6c-80bb-13e15af56e49
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.10589
+Precisao: 0.845
+Recall: 0.671
+----------------------------------------
+Individuo 5 (Geracao 1):
+Origem: Crossover de pais 94e614ca-395c-45fc-967f-cf5368aad8ed e a6788a69-a1c2-4c6c-80bb-13e15af56e49
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.10579
+Precisao: 0.846
+Recall: 0.664
+----------------------------------------
+Individuo 6 (Geracao 1):
+Origem: Crossover de pais 10b1c108-7533-4fcb-8196-cf27a198796f e a6788a69-a1c2-4c6c-80bb-13e15af56e49
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 91, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.13257
+Precisao: 0.843
+Recall: 0.647
+----------------------------------------
+Individuo 7 (Geracao 1):
+Origem: Crossover de pais a6788a69-a1c2-4c6c-80bb-13e15af56e49 e 2cbd6a5c-65a9-415a-9a24-0db9ade6016b
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.11334
+Precisao: 0.844
+Recall: 0.656
+----------------------------------------
+Individuo 8 (Geracao 1):
+Origem: Crossover de pais 10b1c108-7533-4fcb-8196-cf27a198796f e 6ff85d82-8a3a-4102-959b-acd6cd6da880
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.10582
+Precisao: 0.844
+Recall: 0.665
+----------------------------------------
+Individuo 9 (Geracao 1):
+Origem: Crossover de pais a6788a69-a1c2-4c6c-80bb-13e15af56e49 e 2cbd6a5c-65a9-415a-9a24-0db9ade6016b
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.10337
+Precisao: 0.844
+Recall: 0.659
+----------------------------------------
+Individuo 10 (Geracao 1):
+Origem: Individuo inicial (sem pais)
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 170, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.10567
+Precisao: 0.843
+Recall: 0.666
+----------------------------------------
+
+Sumário da População - Geração 1:
+--------------------------------------------------
+Individuo 1: Fitness (MAE)=1.07615, Precisao=0.844, Recall=0.699
+Hiperparametros: {'n_latent_factors': 47, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 2: Fitness (MAE)=1.16492, Precisao=0.842, Recall=0.634
+Hiperparametros: {'n_latent_factors': 104, 'batch_size': 78, 'learning_rate': 0.002947614997131039}
+----------------------------------------
+Individuo 3: Fitness (MAE)=1.13917, Precisao=0.844, Recall=0.635
+Hiperparametros: {'n_latent_factors': 104, 'batch_size': 78, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 4: Fitness (MAE)=1.10589, Precisao=0.845, Recall=0.671
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 5: Fitness (MAE)=1.10579, Precisao=0.846, Recall=0.664
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 6: Fitness (MAE)=1.13257, Precisao=0.843, Recall=0.647
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 91, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 7: Fitness (MAE)=1.11334, Precisao=0.844, Recall=0.656
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 8: Fitness (MAE)=1.10582, Precisao=0.844, Recall=0.665
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 9: Fitness (MAE)=1.10337, Precisao=0.844, Recall=0.659
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 10: Fitness (MAE)=1.10567, Precisao=0.843, Recall=0.666
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 170, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+
+Melhor individuo da geracao:
+Hiperparametros: {'n_latent_factors': 47, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.07615
+Precisao: 0.844
+Recall: 0.699
+==================================================
+
+Geracao 2:
+==================================================
+
+Individuos da geracao 2 (Pais e Filhos):
+--------------------------------------------------
+Individuo 1 (Geracao 2):
+Origem: Preservado por elitismo
+Hiperparametros: {'n_latent_factors': 47, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.08298
+Precisao: 0.841
+Recall: 0.7
+----------------------------------------
+Individuo 2 (Geracao 2):
+Origem: Crossover de pais abb64812-6e4b-4c12-acae-609be7daa348 e 2ba7dae6-7975-40a5-b848-a6b34edacebd
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 91, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.12212
+Precisao: 0.844
+Recall: 0.658
+----------------------------------------
+Individuo 3 (Geracao 2):
+Origem: Crossover de pais b1d8f2c7-e12b-412a-a574-a5b38c91f3ba e b1d8f2c7-e12b-412a-a574-a5b38c91f3ba
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 170, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.10849
+Precisao: 0.846
+Recall: 0.651
+----------------------------------------
+Individuo 4 (Geracao 2):
+Origem: Crossover de pais abb64812-6e4b-4c12-acae-609be7daa348 e 0c0d448d-b874-467a-809e-39da8f06790c
+Hiperparametros: {'n_latent_factors': 47, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.0872
+Precisao: 0.843
+Recall: 0.693
+----------------------------------------
+Individuo 5 (Geracao 2):
+Origem: Crossover de pais abb64812-6e4b-4c12-acae-609be7daa348 e 2ba7dae6-7975-40a5-b848-a6b34edacebd
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 91, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.123
+Precisao: 0.844
+Recall: 0.654
+----------------------------------------
+Individuo 6 (Geracao 2):
+Origem: Crossover de pais 0c0d448d-b874-467a-809e-39da8f06790c e d91a98f6-88d0-43c8-bb23-7a03d94fcbee
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.11348
+Precisao: 0.842
+Recall: 0.651
+----------------------------------------
+Individuo 7 (Geracao 2):
+Origem: Crossover de pais d91a98f6-88d0-43c8-bb23-7a03d94fcbee e 0c0d448d-b874-467a-809e-39da8f06790c
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.11219
+Precisao: 0.843
+Recall: 0.665
+----------------------------------------
+Individuo 8 (Geracao 2):
+Origem: Crossover de pais 0c0d448d-b874-467a-809e-39da8f06790c e d91a98f6-88d0-43c8-bb23-7a03d94fcbee
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.09859
+Precisao: 0.844
+Recall: 0.662
+----------------------------------------
+Individuo 9 (Geracao 2):
+Origem: Crossover de pais b1d8f2c7-e12b-412a-a574-a5b38c91f3ba e 2d24f012-65fc-4eeb-abdb-9ea53f9b59e7
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.1174
+Precisao: 0.844
+Recall: 0.653
+----------------------------------------
+Individuo 10 (Geracao 2):
+Origem: Individuo inicial (sem pais)
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.11775
+Precisao: 0.844
+Recall: 0.647
+----------------------------------------
+
+Sumário da População - Geração 2:
+--------------------------------------------------
+Individuo 1: Fitness (MAE)=1.08298, Precisao=0.841, Recall=0.7
+Hiperparametros: {'n_latent_factors': 47, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 2: Fitness (MAE)=1.12212, Precisao=0.844, Recall=0.658
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 91, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 3: Fitness (MAE)=1.10849, Precisao=0.846, Recall=0.651
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 170, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 4: Fitness (MAE)=1.0872, Precisao=0.843, Recall=0.693
+Hiperparametros: {'n_latent_factors': 47, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 5: Fitness (MAE)=1.123, Precisao=0.844, Recall=0.654
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 91, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 6: Fitness (MAE)=1.11348, Precisao=0.842, Recall=0.651
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 7: Fitness (MAE)=1.11219, Precisao=0.843, Recall=0.665
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 8: Fitness (MAE)=1.09859, Precisao=0.844, Recall=0.662
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 9: Fitness (MAE)=1.1174, Precisao=0.844, Recall=0.653
+Hiperparametros: {'n_latent_factors': 82, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+Individuo 10: Fitness (MAE)=1.11775, Precisao=0.844, Recall=0.647
+Hiperparametros: {'n_latent_factors': 89, 'batch_size': 171, 'learning_rate': 0.002119898981243227}
+----------------------------------------
+
+Melhor individuo da geracao:
+Hiperparametros: {'n_latent_factors': 47, 'batch_size': 157, 'learning_rate': 0.002119898981243227}
+Fitness (MAE): 1.08298
+Precisao: 0.841
+Recall: 0.7
+==================================================
+
